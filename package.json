@@ -13,10 +13,11 @@
     "@react-navigation/native": "^6.1.2",
     "@react-navigation/native-stack": "^6.9.8",
     "react": "17.0.2",
+    "react-dom": "17.0.2",
     "react-native": "0.68.2",
     "react-native-multicolor-progress-bar": "^2.0.0",
-    "react-native-safe-area-context": "^4.5.0",
-    "react-native-screens": "^3.19.0",
+    "react-native-safe-area-context": "^4.8.2",
+    "react-native-screens": "^3.29.0",
     "styled-components": "^5.3.6"
   },
   "devDependencies": {
